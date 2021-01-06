@@ -10,7 +10,7 @@
     "dist": "node simple-server.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "comb-ui": "^v2.0.2",
     "core-js": "^3.6.5",
     "fastclick": "^1.0.6",
